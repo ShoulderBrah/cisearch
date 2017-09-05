@@ -1,4 +1,4 @@
-
+#First release of the packagage.
 
 ceic.series <- function(seriesId) {
   library("xml2")
