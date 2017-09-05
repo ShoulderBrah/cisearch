@@ -61,6 +61,10 @@ ceic.checkServer <- function() {
   print(getOption("ceic.server"))
 }
 
+ceic.ver <- function() {
+  print("version 2!!!")
+}
+
 frequencyToNumeric <- function (char) {
   if (char == "Y")
     return (1)
